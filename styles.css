@@ -24,3 +24,9 @@ li{
     display: inline-block;
     margin: 20px;
 }
+
+h2{
+    font-size: 54px;
+    line-height: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
