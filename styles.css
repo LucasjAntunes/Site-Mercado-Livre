@@ -30,3 +30,13 @@ h2{
     line-height: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+a{
+    color: rgb(36, 24, 85);
+}
+
+
+a:hover{
+    color: blue;
+    transition: 0.4s;
+}
