@@ -46,3 +46,12 @@ a:hover{
     height: 400px;
 
 }
+
+p{
+    font-size: 19px;
+    line-height: 26px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 500px;
+
+
+}
