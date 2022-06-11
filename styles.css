@@ -40,3 +40,9 @@ a:hover{
     color: blue;
     transition: 0.4s;
 }
+
+
+.imagem-principal{
+    height: 400px;
+
+}
