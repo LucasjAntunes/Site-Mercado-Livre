@@ -52,6 +52,11 @@ p{
     line-height: 26px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     max-width: 500px;
+}
 
 
+form{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
 }
