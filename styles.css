@@ -43,7 +43,7 @@ a:hover{
 
 
 .imagem-principal{
-    height: 400px;
+    height: 417px;
 
 }
 
@@ -68,4 +68,17 @@ input{
     border-radius: 20px;
     border: none;
     font-size: 15px;
+}
+
+form [type="submit"]{
+    height: 50px;
+    width:50%;
+    background-color: rgb(41, 46, 120);
+    color: white;
+    font-weight: bold;
+}
+
+form [type="submit"]:hover{
+    cursor:pointer;
+    background-color: blue;
 }
